@@ -3,4 +3,4 @@
  Git had a mutable index called stage.
  Git tracks changes.
  Create a new branch is quick and simple.
- Don't use 'Fast forward'.
+ Don't use 'Fast forward'. It's not safe.
